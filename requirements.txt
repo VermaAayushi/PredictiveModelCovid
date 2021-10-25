@@ -1,5 +1,5 @@
 wget==3.2
 pandas==1.2.4
 numpy==1.20.1
-matplotlib.pyplot==unknown
+matplotlib==3.3.4
 watermark==2.2.0
